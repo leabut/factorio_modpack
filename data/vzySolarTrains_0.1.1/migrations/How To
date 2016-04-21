@@ -1,0 +1,18 @@
+0.1.0.lua shows recipe and tech changes for "entity", "item", and "tile" changes a vzySolar.X.Y.Z.json is needed
+
+json file format (as far as I know the types are "entity", "item", and "tile"):
+{
+  "first-type":
+  [
+    ["first-old-name", "first-new-name"],
+    ... (other migrations here)
+    ["last-old-name", "last-new-name"]
+  ],
+  ... --other type(s) here
+  "last-type":
+  [
+    ["first-old-name", "first-new-name"],
+    ... (other migrations here)
+    ["last-old-name", "last-new-name"]
+  ]
+}

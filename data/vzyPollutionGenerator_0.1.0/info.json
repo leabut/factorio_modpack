@@ -1,0 +1,10 @@
+{
+  "name": "vzyPollutionGenerator",
+  "version": "0.1.0", 
+  "title": "VZY - Pollution Generators",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Make energy by eating Pollution!",
+  "dependencies": ["base >= 0.11.1", "vzy >= 0.0.0"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vzySolarTrains",
+  "version": "0.1.1", 
+  "title": "VZY - Solar Powered Trains!",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Trains that are solar!",
+  "dependencies": ["base >= 0.11.1"]
+}

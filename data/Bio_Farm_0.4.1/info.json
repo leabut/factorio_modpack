@@ -1,0 +1,9 @@
+{
+  "name": "Bio_Farm",
+  "version": "0.4.1",
+  "title": "Bio_Farm",
+  "author": "TheSAguy",
+  "contact": "vvwmisc@hotmail.com",
+  "description": "Simple wood farm.",
+  "dependencies": ["base >= 0.12.11"]
+}

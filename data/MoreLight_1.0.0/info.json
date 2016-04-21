@@ -1,0 +1,9 @@
+{
+  "name": "MoreLight",
+  "version": "1.0.0",
+  "title": "MoreLight",
+  "author": "James O'Farrell",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Gives the player more light."
+}

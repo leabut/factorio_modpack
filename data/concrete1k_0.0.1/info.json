@@ -1,0 +1,10 @@
+{
+  "name": "concrete1k",
+  "version": "0.0.1",
+  "title": "Concrete 1k",
+  "author": "Kane Hart",
+  "contact": "stonelegion.com",
+  "homepage": "http://stonelegion.com",
+  "description": "Changes Concrete Stack size from 100 to 1000",
+  "dependencies": ["base >= 0.12"]
+}

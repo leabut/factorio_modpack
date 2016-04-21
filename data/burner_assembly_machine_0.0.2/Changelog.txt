@@ -1,0 +1,8 @@
+Beta Version History
+
+0.0.2
+-Updated for Factorio 0.12.0
+
+0.0.1
+-First Edition.  
+-added the burner assembling machine.  

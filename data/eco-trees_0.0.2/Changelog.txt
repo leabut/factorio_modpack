@@ -1,0 +1,8 @@
+Version History
+0.0.2
+*Added those missed vanilla trees.
+*Added Compaitbility Treefarm Mod Trees
+*Added Compaitbility Treefarm Mod Cafine Addon plants
+*Added Compaitbility Treefarm Mod Alien Plant Addon plants
+*Added Compaitbility DyTech Mod Trees
+0.0.1

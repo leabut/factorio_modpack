@@ -1,0 +1,1 @@
+--data.raw["accumulator"]["basic-accumulator"].fast_replaceable_group = "basic-accumulator"

@@ -1,0 +1,10 @@
+{
+	"name": "Warehousing",
+	"version": "0.0.4",
+	"title": "Warehousing mod",
+	"author": "Anoyomouse",
+	"contact": "PM on the Factorio Forums",
+	"homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=93&t=17295",
+	"description": "Basic warehousing that allows you to have large storage buildings.",
+	"dependencies": ["base >= 0.12.11"]
+}

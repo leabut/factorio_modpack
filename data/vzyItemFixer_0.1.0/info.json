@@ -1,0 +1,10 @@
+{
+  "name": "vzyItemFixer",
+  "version": "0.1.0", 
+  "title": "VZY - Fixes Item Properties.",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Tweaks several properties of items.",
+  "dependencies": ["base >= 0.11.1", "vzy >= 0.0.5"]
+}

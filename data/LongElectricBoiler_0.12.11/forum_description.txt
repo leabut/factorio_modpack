@@ -1,0 +1,73 @@
+Type: Mod
+Name: Long's Electric Boiler
+Description: Eletric boiler to store extra solar power as steam
+License: http://opensource.org/licenses/MIT
+Version: 0.12.3
+Release: 17-Jul-2015
+Tested-With-Factorio-Version: 0.12.0
+Category: SimpleExtension
+Tags: Energy
+Website: [url]http://www.factorioforums.com/forum/viewtopic.php?t=13381[/url]
+Download-Url: 
+[attachment=0]LongElectricBoiler_0.12.3.zip[/attachment]
+[attachment=1]LongElectricBoiler_0.11.3.zip[/attachment]
+
+*Note: Please download version 0.12.3 for Factorio 0.12.x, and 0.11.3 for Factorio 0.11.x
+
+[spoiler=License][size=150]License[/size]
+The MIT License (MIT)
+
+Copyright (c) 2015 Long Doan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+
+http://opensource.org/licenses/MIT[/spoiler]
+
+[spoiler=Long description][size=150]Long description[/size]
+I know of at least one mod that contains an electric boiler:
+[list]
+[*] Alpha Mod (http://www.factorioforums.com/forum/viewtopic.php?f=87&t=7260)
+[*] Steam Cycle Framework (http://www.factorioforums.com/forum/viewtopic.php?f=32&t=7859)[/list]
+But they are much more involved mods.
+
+What this mod is
+[list]
+[*] A ternary-powered electric boiler -- only run when solar power is available.
+[*] Allows the user to store excess energy in hot water tanks instead of accumulator.[/list][/spoiler]
+
+[spoiler=Pictures][size=150]Pictures[/size]
+[attachment=3]screenshot-1.png[/attachment][/spoiler]
+More screenshots: http://www.factorioforums.com/forum/viewtopic.php?t=13381#p90191
+
+[spoiler=Version history][size=150]Version history[/size]
+   - Version 0.11.1: Initial version based on regular pump/boiler.
+
+   - Version 0.11.2: Simplify everything. Remove pumping code since the entity is already a pump.
+
+   - Version 0.11.3: Fix a nasty bug because we incorrectly use table.remove()[/spoiler]
+Full changelog: http://www.factorioforums.com/forum/viewtopic.php?t=13381#p90192 (and in changelog.txt within the mod itself).
+
+[spoiler=TODO][list]
+[*]Balancing. Right now the mod is more of a proof-of-concept. I will need to play with it to get the efficiency right.
+[*] ???[/list][/spoiler]
+
+[spoiler=Previous Releases][list]
+[*][attachment=2]LongElectricBoiler_0.11.2.zip[/attachment]
+[*][attachment=4]LongElectricBoiler_0.11.1.zip[/attachment][/list][/spoiler]

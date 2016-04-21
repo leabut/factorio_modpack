@@ -1,0 +1,11 @@
+Change log:
+===========
+   - Version 0.11.1: Initial version based on regular pump/boiler.
+
+   - Version 0.11.2: Simplify everything. Remove pumping code since the entity is already a pump.
+
+   - Version 0.11.3: Fix a nasty bug because we incorrectly use table.remove()
+
+   - Version 0.12.3: Same as 0.11.3, but works with Factorio version 0.12.0-0.12.10
+
+   - Version 0.12.11: Update for Factorio version 0.12.11

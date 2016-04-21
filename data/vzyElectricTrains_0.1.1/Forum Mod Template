@@ -1,0 +1,21 @@
+[spoiler=vzyElectricTrains 0.1.0]
+[list]
+    Adds Electric Trains that run off of special Accumulators.
+
+    [*] Name: vzyElectricTrains
+    [*] Latest Release: v0.1.0, 2015.8.30
+    [*] Factorio Version: 0.12.x
+    [*] Download: [url=<LINK>]Link[/url]
+    [*] License: I have no clue, free, do with as you please, just don't re-upload a copy as your own... I would also like to know what mod packs this finds it's way into.
+ [/list]
+
+[size=150]Long Description:[/size]
+Adds in a new locomotive type that is powered by a special accumulator.
+Adds in a new charge-only accumulator to power the trains.
+If All trains are going constantly, you will need one power provider per train!
+
+[size=150]Bugs[/size]
+[list]
+    [*] Needs it's own graphics, currently uses base.
+[/list]
+[/spoiler]

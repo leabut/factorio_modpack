@@ -1,0 +1,10 @@
+{
+  "name": "vzyElectricTrains",
+  "version": "0.1.1", 
+  "title": "VZY - Eletric Trains",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Network Powered Trains",
+  "dependencies": ["base >= 0.11.1"]
+}

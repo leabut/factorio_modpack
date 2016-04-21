@@ -1,0 +1,21 @@
+[spoiler=vzyAccumulator 0.1.0]
+[list]
+    Adds in Compressed Accumulators. More in the space of one!
+
+    [*] Name: vzyAccumulator
+    [*] Latest Release: v0.1.0, 2015.8.30
+    [*] Factorio Version: 0.12.x
+    [*] Download: [url=<Link>]Link[/url]
+    [*] License: I have no clue, free, do with as you please, just don't re-upload a copy as your own... I would also like to know what mod packs this finds it's way into.
+    [*] Dependencies: vzy 0.0.0
+[/list]
+
+[size=150]Long Description:[/size]
+Adds in new accumulators that can be crafted up to be an insane amount in the same space as one.
+Crafting uses the previous level.
+
+[size=150]Bugs[/size]
+[list]
+    [*] Needs it's own graphics, currently uses base.
+[/list]
+[/spoiler]

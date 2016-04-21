@@ -1,0 +1,10 @@
+{
+  "name": "vzy",
+  "version": "0.0.6", 
+  "title": "VZY - Mod Core",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Core for vzyMods",
+  "dependencies": ["base >= 0.11.1"]
+}

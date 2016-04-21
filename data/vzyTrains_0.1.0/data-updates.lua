@@ -1,0 +1,1 @@
+--data.raw["locomotive"]["diesel-locomotive"].fast_replaceable_group = "locomotive"

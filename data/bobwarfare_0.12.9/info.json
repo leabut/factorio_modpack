@@ -1,0 +1,10 @@
+{
+  "name": "bobwarfare",
+  "version": "0.12.9",
+  "title": "Bob's Warfare",
+  "author": "Bobingabout",
+  "contact": "robertagius@hotmail.com",
+  "homepage": "http://www.destructivality.com",
+  "description": "Make things for warfare.",
+  "dependencies": ["base >= 0.12.0", "boblibrary >= 0.12.0", "bobplates >= 0.12.7", "? bobconfig >= 0.12.0", "? bobenemies >= 0.12.0"]
+}

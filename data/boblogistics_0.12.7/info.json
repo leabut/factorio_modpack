@@ -1,0 +1,10 @@
+{
+  "name": "boblogistics",
+  "version": "0.12.7",
+  "title": "Bob's Logistics mod",
+  "author": "Bobingabout",
+  "contact": "robertagius@hotmail.com",
+  "homepage": "http://www.destructivality.com",
+  "description": "Adds logistic related things.",
+  "dependencies": ["base >= 0.12.0", "boblibrary >= 0.12.0", "? bobconfig >= 0.12.0", "? bobplates >= 0.12.0", "? DyTech-Metallurgy", "? CORE-DyTech-Core"]
+}

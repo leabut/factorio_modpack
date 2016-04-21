@@ -1,0 +1,10 @@
+{
+  "name": "vzySolar",
+  "version": "0.1.0", 
+  "title": "VZY - Solar",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Compacting Solar Panels",
+  "dependencies": ["base >= 0.11.1", "vzy >= 0.0.0"]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "vzyGrinder",
+  "version": "0.1.0", 
+  "title": "VZY - Ore Dubling",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Grind up all of your ores and double them!",
+  "dependencies": ["base >= 0.11.1", "vzy >= 0.0.6"]
+}

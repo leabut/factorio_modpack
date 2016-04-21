@@ -1,0 +1,10 @@
+{
+  "name": "bobconfig",
+  "version": "0.12.2",
+  "title": "Bob's Config mod",
+  "author": "Bobingabout",
+  "contact": "robertagius@hotmail.com",
+  "homepage": "http://www.destructivality.com",
+  "description": "This mod allows you to change the settings of Bob's mods.",
+  "dependencies": ["base >= 0.12.0"]
+}

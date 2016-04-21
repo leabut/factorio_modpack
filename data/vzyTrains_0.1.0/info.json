@@ -1,0 +1,10 @@
+{
+  "name": "vzyTrains",
+  "version": "0.1.0", 
+  "title": "VZY - Trains",
+  "author": "vzybilly",
+  "contact": "vzybilly@gmail.com",
+  "homepage": "",
+  "description": "Faster Trains",
+  "dependencies": ["base >= 0.11.1", "vzy >= 0.0.0"]
+}

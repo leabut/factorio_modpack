@@ -1,0 +1,10 @@
+{
+  "name": "GunTrains",
+  "version": "0.2.2",
+  "title": "Gun trains",
+  "author": "Adil",
+  "contact": "",
+  "homepage": "",
+  "description": "Allows installation of automatic combat systems into trains",
+  "dependencies": ["base >= 0.12.11","UniqueBackerNames"]
+}

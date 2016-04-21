@@ -1,0 +1,8 @@
+{
+  "name": "faster-trains",
+  "version": "1.0.0",
+  "title": "Faster Trains",
+  "author": "bigyihsuan",
+  "description": "Changes the trains to be much faster.",
+  "dependencies": ["base >=0.12.3"]
+}
