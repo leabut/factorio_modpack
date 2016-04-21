@@ -1,0 +1,272 @@
+{
+    "mods": [
+        {
+            "name": "air-filtering",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "autofill",
+            "enabled": "true"
+        },
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "BigWoodenPowerPole",
+            "enabled": "false"
+        },
+        {
+            "name": "Bio_Farm",
+            "enabled": "true"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobconfig",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelectronics",
+            "enabled": "false"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "false"
+        },
+        {
+            "name": "boblibrary",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "false"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "false"
+        },
+        {
+            "name": "bobmodules",
+            "enabled": "false"
+        },
+        {
+            "name": "bobores",
+            "enabled": "false"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "false"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "false"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "false"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "false"
+        },
+        {
+            "name": "burner_assembly_machine",
+            "enabled": "true"
+        },
+        {
+            "name": "Burner_Generator",
+            "enabled": "false"
+        },
+        {
+            "name": "clock",
+            "enabled": "true"
+        },
+        {
+            "name": "commandcontrol",
+            "enabled": "false"
+        },
+        {
+            "name": "concrete1k",
+            "enabled": "true"
+        },
+        {
+            "name": "dark-matter-replicators",
+            "enabled": "false"
+        },
+        {
+            "name": "Diesel_Generator",
+            "enabled": "true"
+        },
+        {
+            "name": "eco-trees",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "faster-trains",
+            "enabled": "false"
+        },
+        {
+            "name": "Fluid Void",
+            "enabled": "false"
+        },
+        {
+            "name": "Force Fields",
+            "enabled": "true"
+        },
+        {
+            "name": "GunTrains",
+            "enabled": "false"
+        },
+        {
+            "name": "Landfill",
+            "enabled": "false"
+        },
+        {
+            "name": "LogicBelt",
+            "enabled": "true"
+        },
+        {
+            "name": "LongElectricBoiler",
+            "enabled": "true"
+        },
+        {
+            "name": "Loot-able Rocks",
+            "enabled": "true"
+        },
+        {
+            "name": "MoreLight",
+            "enabled": "true"
+        },
+        {
+            "name": "OilSteamBoiler",
+            "enabled": "true"
+        },
+        {
+            "name": "Orbital Ion Cannon",
+            "enabled": "true"
+        },
+        {
+            "name": "RailTanker",
+            "enabled": "true"
+        },
+        {
+            "name": "reverse-factory",
+            "enabled": "true"
+        },
+        {
+            "name": "RoadWorks",
+            "enabled": "false"
+        },
+        {
+            "name": "scarynights",
+            "enabled": "true"
+        },
+        {
+            "name": "STRS",
+            "enabled": "true"
+        },
+        {
+            "name": "SupremeWarfare",
+            "enabled": "false"
+        },
+        {
+            "name": "Terraforming",
+            "enabled": "true"
+        },
+        {
+            "name": "Treefarm-AC",
+            "enabled": "false"
+        },
+        {
+            "name": "Treefarm-Lite",
+            "enabled": "false"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "UraniumPower",
+            "enabled": "true"
+        },
+        {
+            "name": "usefulSpace",
+            "enabled": "true"
+        },
+        {
+            "name": "vzy",
+            "enabled": "true"
+        },
+        {
+            "name": "vzyAccumulator",
+            "enabled": "false"
+        },
+        {
+            "name": "vzyElectricTrains",
+            "enabled": "true"
+        },
+        {
+            "name": "vzyGrinder",
+            "enabled": "false"
+        },
+        {
+            "name": "vzyItemFixer",
+            "enabled": "true"
+        },
+        {
+            "name": "vzyPollutionGenerator",
+            "enabled": "false"
+        },
+        {
+            "name": "vzySolar",
+            "enabled": "false"
+        },
+        {
+            "name": "vzySolarTrains",
+            "enabled": "true"
+        },
+        {
+            "name": "vzyTrains",
+            "enabled": "false"
+        },
+        {
+            "name": "WaiTex",
+            "enabled": "true"
+        },
+        {
+            "name": "Warehousing",
+            "enabled": "true"
+        },
+        {
+            "name": "Wind_Turbine",
+            "enabled": "false"
+        },
+        {
+            "name": "yi_engines",
+            "enabled": "false"
+        },
+        {
+            "name": "yi_pfw",
+            "enabled": "false"
+        },
+        {
+            "name": "yi_railway",
+            "enabled": "false"
+        },
+        {
+            "name": "Yuoki",
+            "enabled": "false"
+        }
+    ]
+}
